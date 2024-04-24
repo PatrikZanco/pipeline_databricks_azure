@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "data-factory-alura-curso"
+		},
+		"databricks_datactory_link_accessToken": {
+			"value": ""
+		},
+		"databricks_datactory_link_properties_typeProperties_existingClusterId": {
+			"value": "0419-210539-m0f6saqf"
+		}
+	}
+}
